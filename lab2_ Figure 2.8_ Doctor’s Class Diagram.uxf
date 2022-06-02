@@ -1,0 +1,8 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>380</x><y>170</y><w>210</w><h>70</h></coordinates><panel_attributes>Doctor
+--
+Greetings:
+Signoff message:
+Reply to Patient's questions:
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>380</x><y>340</y><w>210</w><h>60</h></coordinates><panel_attributes>Patient
+--
+elaborate health condition</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>230</y><w>30</w><h>130</h></coordinates><panel_attributes>lt=&lt;-</panel_attributes><additional_attributes>10;110;10;10</additional_attributes></element></diagram>
